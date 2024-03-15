@@ -1,5 +1,6 @@
-Projet_Api_Evenements_Membres
-L’application à réaliser gère les événements d’une association et de ses membres.
+# Projet_Api_Evenements_Membres
+
+L’application gère les événements d’une association et de ses membres.
 
 Membre : un membre d’association est caractérisé par un id, son nom, son prénom, son âge son mail et son adresse. Il n’existe pas deux membres ayant le même id et adresse mail.
 
@@ -15,6 +16,6 @@ JDK-17 à utiliser
 
 Membre du groupe :
 
-CharlotteMenou : Charlotte Menou
-Kirawashi : Léo Paugam
-NathanaelMo : Nathanaël Monnier
+- CharlotteMenou : Charlotte Menou
+- Kirawashi : Léo Paugam
+- NathanaelMo : Nathanaël Monnier
