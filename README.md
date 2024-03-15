@@ -11,8 +11,8 @@ Inscription : un membre peut s’inscrire à un événement. La contrainte est q
 Fonctionnalités : on doit pouvoir visualiser l’ensemble des membres de l’association, l’ensemble des événements, l’ensemble des inscriptions pour un événement donné et pour chaque membre, pouvoir lister les événements auxquels il est inscrit. L’application permet de créer, modifier et supprimer de nouveaux membres ou événements.
 
 Technique :
-Ces API ont été codées en Spring
-JDK-17 à utiliser
+- Ces API ont été codées en Spring
+- JDK-17 à utiliser
 
 Membre du groupe :
 
