@@ -13,6 +13,7 @@ Fonctionnalités : on doit pouvoir visualiser l’ensemble des membres de l’as
 Technique :
 - Ces API ont été codées en Spring
 - JDK-17 à utiliser
+- Être connecté au serveur de la fac (par VPN par exemple)
 
 Membre du groupe :
 
